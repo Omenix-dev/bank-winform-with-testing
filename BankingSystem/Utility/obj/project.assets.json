@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj",
+      "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj",
+      "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Utility\\Utility.csproj",
+      "projectName": "Utility",
+      "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Utility\\Utility.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Utility\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj"
+            },
+            "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj"
+            },
+            "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8YyP1j4w3tz5n3NbF64aZd1+XAPqjquOHahGG6DxM3G9jImC9Ia0w/CiTbyaLQgKbIm0doXhxVClgm1DxQBlA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Enum\\Enum.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Helpers\\Helpers.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\hp\\Documents\\decagon task\\week4\\BankingSystem\\BankingSystem\\Model\\Model.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

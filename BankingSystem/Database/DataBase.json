@@ -1,0 +1,46 @@
+[
+  {
+    "CustomerAccountDetails": [
+      {
+        "AccountType": 1,
+        "Balance": 2500.0,
+        "ValidTransactions": [
+          {
+            "balance": 2000.0,
+            "accountType": 0,
+            "AccountNumber": "0000007430",
+            "DateOfTransaction": "2022-08-03T11:44:04.2658315+01:00",
+            "TransactionDesc": "Account was Created",
+            "TransactionAmount": 2000.0,
+            "TransactionType": 1
+          },
+          {
+            "balance": 3000.0,
+            "accountType": 0,
+            "AccountNumber": "0000007430",
+            "DateOfTransaction": "2022-08-03T11:44:17.4067041+01:00",
+            "TransactionDesc": "Deposited",
+            "TransactionAmount": 1000.0,
+            "TransactionType": 1
+          },
+          {
+            "balance": 2500.0,
+            "accountType": 0,
+            "AccountNumber": "0000007430",
+            "DateOfTransaction": "2022-08-03T11:44:31.5917412+01:00",
+            "TransactionDesc": "Cash withdrawal",
+            "TransactionAmount": 500.0,
+            "TransactionType": -1
+          }
+        ],
+        "AccountNumber": "0000007430"
+      }
+    ],
+    "PersonalDetails": {
+      "Name": "Omeni Saviour",
+      "Sex": "Male",
+      "Email": "omenigph@gmail.com"
+    },
+    "Password": "8129a493f08903a37a16b73d47e082e6b2cdc68c88cc5678e170fda5c5543b18"
+  }
+]

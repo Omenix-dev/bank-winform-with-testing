@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\BankingSystem\\BankingSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\BankingSystem\\BankingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\BankingSystem\\BankingSystem.csproj",
+        "projectName": "BankingSystem",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\BankingSystem\\BankingSystem.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\BankingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\Data.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Core\\Core.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EasyEncryption": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj",
+        "projectName": "Enum",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Enum\\Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj",
+        "projectName": "Utility",
+        "projectPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\decagon task\\week 5\\bankingSystem Authentication\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

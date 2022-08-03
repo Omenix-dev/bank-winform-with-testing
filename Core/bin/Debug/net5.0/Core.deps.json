@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Core/1.0.0": {
+        "dependencies": {
+          "Enum": "1.0.0",
+          "Model": "1.0.0",
+          "coverlet.collector": "3.1.2"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
+      "coverlet.collector/3.1.2": {},
+      "Enum/1.0.0": {
+        "runtime": {
+          "Enum.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "dependencies": {
+          "Enum": "1.0.0"
+        },
+        "runtime": {
+          "Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coverlet.collector/3.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuLDIDKD5XMt0A7lE31JPenT7QQwZPFkP5rRpdJeblyXZ9MGLI8rYjvm5fvAKln+2/X+4IxxQDxBtwdrqKNLZw==",
+      "path": "coverlet.collector/3.1.2",
+      "hashPath": "coverlet.collector.3.1.2.nupkg.sha512"
+    },
+    "Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

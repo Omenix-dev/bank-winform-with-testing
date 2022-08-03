@@ -1,0 +1,43 @@
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Utility.deps.json
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Helpers.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Helpers.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\refint\Utility.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Utility\obj\Debug\net5.0\ref\Utility.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\refint\Utility.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\bin\Debug\net5.0\Utility.deps.json
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\bin\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\bin\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Utility\obj\Debug\net5.0\ref\Utility.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\bin\Debug\net5.0\Utility.deps.json
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\bin\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\bin\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\refint\Utility.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\Utility.pdb
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Utility\obj\Debug\net5.0\ref\Utility.dll

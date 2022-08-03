@@ -1,0 +1,24 @@
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\refint\Enum.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\refint\Enum.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Enum\obj\Debug\net5.0\ref\Enum.dll

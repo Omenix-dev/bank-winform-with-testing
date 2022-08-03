@@ -1,0 +1,45 @@
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\bin\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week 3 correction\BankAppCorrection\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\bin\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week4\BankingSystem\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\bin\Debug\net5.0\Model.deps.json
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\bin\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\bin\Debug\net5.0\Enum.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\bin\Debug\net5.0\Enum.pdb
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.csproj.CopyComplete
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\refint\Model.dll
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\Model.pdb
+C:\Users\hp\Documents\decagon task\week 5\bankingSystem Authentication\Model\obj\Debug\net5.0\ref\Model.dll
